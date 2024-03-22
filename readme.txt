@@ -13,7 +13,7 @@ git pull origin master                                             // always pul
 git push -u origin master                                          // publish changes to your remote repository
 
 
-########## START PYTHON STEPS #############
+########## START PYTHON STEPS ###########
 # download and install python 
 # install django by using command
     pip install django
